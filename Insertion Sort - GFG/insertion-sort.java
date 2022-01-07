@@ -51,15 +51,14 @@ class Solution
     public static void insertionSort(int arr[], int n)
     {
         //code here
-        int j = 0;
-        if(n==1) return ;
-        for(int i = 1;i<n;i++){
-            for( j = i-1;j>-1;j--){
-                if(arr[j]<arr[i])
-                    break;
-            }
-            if((j+1)!=i)
-                insert(arr, i, j+1);
+        if(n<=1) return ;
+        insertionSort(arr, n-1);
+        int val = arr[n-1];
+        int i = n-2;
+        while(i>=0 && arr[i]>val){
+            arr[i+1]= arr[i];
+            i--;
         }
+        arr[i+1] = val;
     }
 }
