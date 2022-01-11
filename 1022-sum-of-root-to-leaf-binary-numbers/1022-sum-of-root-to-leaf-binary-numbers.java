@@ -30,18 +30,12 @@ class Solution {
         if(root==null) return l;
         
         if (root.left==null && root.right==null){
-           // if(f!=0) n = n.subList(0, n.size()-1);
             char ch = (char)(root.val+'0');
 
-          //  System.out.print(ch+" ");
-          //  f = 1;
             List<Integer> ls = new ArrayList<Integer>();
-            //String s = String.valueOf(n);
             int decimal = getDecimal(ch+n);
-            //int decimal=Integer.parseInt(s,2);  
-            //System.out.print(ans+" ");
+
             ls.add(decimal);
-         //   System.out.print(decimal+" "+ch+n+" ");
             return ls;
         
         }
@@ -56,7 +50,7 @@ class Solution {
         
     }
     public  int getDecimal(String b){  
-        System.out.print(b+" ");
+        
     int d = 0;  
     int n = 0;  
         int i = 0;
