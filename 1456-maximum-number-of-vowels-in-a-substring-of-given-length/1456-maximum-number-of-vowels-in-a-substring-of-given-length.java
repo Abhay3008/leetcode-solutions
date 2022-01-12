@@ -12,7 +12,7 @@ class Solution {
         
         
         int vow = max;
-        //System.out.print(max);
+        
         
         for(l++, r++;r<st.length;r++, l++){
         if(st[l-1]=='a' || st[l-1]=='e' || st[l-1]=='i' || st[l-1]=='o' || st[l-1]=='u')
