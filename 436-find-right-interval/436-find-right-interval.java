@@ -1,23 +1,48 @@
 class Solution {
     public int[] findRightInterval(int[][] arr) {
-        int [] ans = new int[arr.length];
-        for(int i = 0;i<arr.length;i++)
-            ans[i] = -1;
+       int ans[] = new int[arr.length];
+        int first[] = new int[arr.length];
         for(int i = 0;i<arr.length;i++){
-            int end = arr[i][1];
-            for(int j =0;j<arr.length;j++){
-                if(arr[j][0] >= end ){    
-                if(ans[i] == -1)
-                {
-                    ans[i] = j;
-                    
-                }
-                else if(arr[j][0] < arr[ans[i]][0])
-                    ans[i] = j;
-                }
-            }
-         
+            first[i] = arr[i][0];
+        }
+        for(int i=0;i<arr.length;i++){
+            ans[i] = find(first, arr[i][1]);
         }
         return ans;
+    }
+    int find(int[] arr, int target){
+        int start =0;
+        int end = arr.length-1;
+        if(arr[start]<arr[end]){
+            while(start<=end){
+                int mid = start + (end-start )/2;
+                if(target==arr[mid])
+                   return mid;
+                if(target>arr[mid])
+                    start = mid+1;
+                else 
+                    end = mid-1;
+                
+            }
+            if(start > arr.length-1)
+                return -1;
+            return start;
+        }
+        else{
+            while(start<=end){
+                int mid = start + (end-start )/2;
+                if(target==arr[mid])
+                   return mid;
+                if(target>arr[mid])
+                    end = mid-1;
+                else 
+                    start = mid+1;
+                
+            }
+            if(end < 0)
+                return -1;
+            return end;
+        }
+    
     }
 }
