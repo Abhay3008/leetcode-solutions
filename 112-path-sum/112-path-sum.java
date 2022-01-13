@@ -23,7 +23,7 @@ class Solution {
                 return true;
             else if(hasPathSum(root.left, targetSum))
                 return  true;
-        else if(hasPathSum(root.right, targetSum))
+            else if(hasPathSum(root.right, targetSum))
                 return true;
             return false;
         }
