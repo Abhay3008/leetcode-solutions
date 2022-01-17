@@ -4,25 +4,33 @@ class Solution {
         ArrayList<Integer> l = new ArrayList<Integer>();
         int x = 0;
         for(int i = 0;i<matrix.length;i++){
-            for(int j = 0;j<matrix[i].length;j++){
+            
+            if(matrix[i][0]==0)
+                x = 1;
+            
+            for(int j = 1;j<matrix[i].length;j++){
                 if(matrix[i][j]==0){
-                   // l.add(i);
-                    //l.add(j);
-                    //ls.add(l);
-                    //l.clear();
-                    ls.add(new ArrayList<Integer>(Arrays.asList(i, j)));
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
      //   System.out.print(ls);
-        for(int i = 0;i<ls.size();i++){
-            for(int j = 0;j<matrix[ls.get(i).get(0)].length;j++){
-                matrix[ls.get(i).get(0)][j] = 0;
-            }
-            for(int j = 0;j<matrix.length;j++){
-                matrix[j][ls.get(i).get(1)] = 0;
+        for(int i = 1;i<matrix.length;i++){
+            for(int j = 1;j<matrix[i].length;j++){
+                if(matrix[i][0]==0 || matrix[0][j]==0)
+                    matrix[i][j]=0;
             }
         }
+            if(matrix[0][0]==0)
+            for(int j = 0;j<matrix[0].length;j++){
+                matrix[0][j] = 0;
+            }
+        if(x==1)
+            for(int j = 0;j<matrix.length;j++){
+                matrix[j][0] = 0;
+            }
+        
        // return matrix;
     }
 }
