@@ -1,8 +1,7 @@
 func sortColors(nums []int)  {
     var zero int = 0
     var two int = len(nums)-1
-    //for i:=0;i<2;i++ {
-        
+    // set zero digit in start & two in last, 1 will automatic comes in middle
         for  j := 0;j<=two;j++ {
             if(nums[j] == 0){
                 var temp = nums[zero]
@@ -16,6 +15,5 @@ func sortColors(nums []int)  {
                 two--;
                 j--;
             }
-            //fmt.Println(nums)
        }
 }
