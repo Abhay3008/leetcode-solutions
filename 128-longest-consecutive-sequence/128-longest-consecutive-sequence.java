@@ -1,10 +1,12 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
         Map<Integer,Boolean> mp = new HashMap<>();
+        // mark all nums as unexplored 
         for(int i =0;i<nums.length;i++)
             mp.put(nums[i],false);
         
         int c =1,ans=0;
+        // check if num-1 has all available and num+1 also 
         for(int i = 0;i<nums.length;i++){
             if(!mp.get(nums[i])==false)
                 continue;
