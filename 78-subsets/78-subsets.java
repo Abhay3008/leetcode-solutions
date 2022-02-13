@@ -5,6 +5,7 @@ class Solution {
         for(int num : nums){
             
             int n = out.size();
+           // System.out.print(n+" ");
             for(int i = 0;i<n;i++){
                 List<Integer> in = new ArrayList<Integer>(out.get(i));
                 in.add(num);
