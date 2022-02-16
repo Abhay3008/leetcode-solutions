@@ -11,13 +11,27 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        for(;headA!=null;headA=headA.next){
-            ListNode n = headB;
-            for(;n!=null;n=n.next){
-                if(headA==n)
-                    return n;
-            }
+        int l1 = length(headA), l2 = length(headB);
+        while(l1>l2){
+            headA= headA.next;
+            l1--;
         }
-        return null;
+        while(l2>l1){
+            headB= headB.next;
+            l2--;
+        }
+        while(headA!=headB){
+            headA= headA.next;
+            headB= headB.next;
+        }
+        return headA;
+    }
+    public int length(ListNode node){
+        int l = 0;
+        while(node!=null){
+            l++;
+            node = node.next;
+        }
+        return l;
     }
 }
