@@ -13,6 +13,7 @@ class Solution {
         Queue<ListNode> q = new LinkedList<>();
         Stack<ListNode> s = new Stack<>();
         int len = length(head);
+        if(len<=2) return;
         ListNode temp = head;
         for(int i = 0;i<len/2;i++){
             q.add(temp);
