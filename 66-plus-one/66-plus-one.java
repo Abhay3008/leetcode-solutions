@@ -1,9 +1,7 @@
 class Solution {
     public int[] plusOne(int[] nums) {
-        nums[nums.length-1] +=1;
-        int carry = nums[nums.length-1]==10?1:0;
-    nums[nums.length-1] = nums[nums.length-1]==10?0:nums[nums.length-1];
-        int i = nums.length-2;
+        int carry = 1;
+        int i = nums.length-1;
         while(i>=0 && carry>0){
             nums[i] = nums[i]+1;
             carry = nums[i]==10?1:0;
