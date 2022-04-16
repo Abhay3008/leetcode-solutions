@@ -22,7 +22,7 @@ class Solution {
         sum = root.val;
         
         convertBST(root.left);
-        System.out.print(sum+" ");
+        
         return root;    
     }
     
