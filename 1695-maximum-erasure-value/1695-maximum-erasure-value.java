@@ -18,7 +18,7 @@ class Solution {
                 set.add(nums[j]);
             }
             max = Math.max(max, ans);
-            System.out.print(max+" ");
+           
         }
         
         return max;
