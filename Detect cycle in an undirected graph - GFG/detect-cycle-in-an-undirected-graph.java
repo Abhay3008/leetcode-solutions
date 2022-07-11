@@ -37,32 +37,27 @@ class Solution {
     public boolean isCycle(int V, ArrayList<ArrayList<Integer>> adj) {
         // Code here
         int vis[] = new int[V];
-        Queue<pair> q = new LinkedList<>();
-
-        for(int i = 0;i<V;i++){
+        
+        for(int i=0;i<V;i++){
             if(vis[i]!=1){
-                vis[i]=1;
-                q.add(new pair(i,-1));
-                while(!q.isEmpty()){
-                     int child = q.peek().first;
-                     int par = q.peek().second;
-                     
-                     q.remove();
-                    
-                    for(int j: adj.get(child)){
-                        if(vis[j]!=1)
-                        {
-                            q.add(new pair(j,child));
-                            vis[j]=1;
-                        }
-                        else if(par!=j) return true;
-                    }
-                }
+                if(check(vis,adj,new pair(-1,i))) return true;
             }
         }
+
         return false;
     }
-   
+    public boolean check(int[] vis, ArrayList<ArrayList<Integer>> adj, pair node){
+        if(vis[node.second] == 1) return true;
+        vis[node.second] = 1;
+        
+        for(int i:adj.get(node.second)){
+            if(vis[i]!=1){
+                if(check(vis,adj,new pair(node.second,i))) return true;
+            }
+            else if(i!=node.first) return true;
+        }
+        return false;
+    }   
 }
 class pair{
     int first;
