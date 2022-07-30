@@ -2,28 +2,25 @@ class Solution {
     int num = 0;
     public String getPermutation(int n, int k) {
         List<Character> list = new ArrayList<Character>();
-        
         for(int i = 1;i<=n;i++)
             list.add((char)(i+'0'));
+        int[] fact = new int[n];
+        fact[0]=1;
+        for(int i = 1;i<n;i++){
+            fact[i] = i*fact[i-1];
+        }
+        k = k-1;
+        String s = "";
+        for(int i = n;i>0;i--){
+            int x = k/fact[i-1];
+            k = k%fact[i-1];
+            s+=list.get(x);
+            list.remove(x);
+            
+        }
         // System.out.print(list);
-        List<String> ans=find(list, "",new ArrayList<String>(),k);
-
-        return ans.get(0);
-    }
-    public List<String> find(List<Character> list, String s, List<String> ans, int k){
         
-        if(list.size()==0)
-            num++;
-        if(num==k){
-            ans.add(s);
-            return ans;
-        }
-        for(int i = 0;i<list.size();i++){
-            char ch = list.get(i);
-            list.remove(i);
-            find(list,s+ch,ans,k);
-            list.add(i,ch);
-        }
-        return ans;
+        return s;
+
     }
 }
