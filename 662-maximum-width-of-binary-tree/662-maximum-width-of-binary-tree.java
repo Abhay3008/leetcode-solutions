@@ -26,8 +26,8 @@ class Solution {
             for(int i = 0;i<count;i++){
                 Pair<TreeNode, Integer> p = q.poll();
                 if(i==0) first = p.getValue();
-                if(i==count-1) last = p.getValue();
-                
+                if(i==count-1) 
+                    last = p.getValue();
                 if(p.getKey().left!=null)
                     q.add(new Pair(p.getKey().left,2*(p.getValue()-1)+1));
                 if(p.getKey().right!=null)
