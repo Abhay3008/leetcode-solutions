@@ -19,9 +19,9 @@ public:
             }
         }
         if(ns)
-            return dp[{vis, {j, ns}}] = min(x+memo(j+1, a, ns, nv, dp), memo(j+1, a, ns-1, vis, dp));
+            return min(x+memo(j+1, a, ns, nv, dp), memo(j+1, a, ns-1, vis, dp));
         else
-            return dp[{vis, {j, ns}}] = x + memo(j+1, a, ns, nv, dp);
+            return x + memo(j+1, a, ns, nv, dp);
     }
     int maximumRows(vector<vector<int>>& a, int ns) {
         int n = a.size(), m = a[0].size();
