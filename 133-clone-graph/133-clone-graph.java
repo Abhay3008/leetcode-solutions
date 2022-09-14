@@ -19,15 +19,23 @@ class Node {
 */
 
 class Solution {
-    private Map<Node, Node> map = new HashMap<Node,Node>();
-// DFS
-public Node cloneGraph(Node node) {
-    if (node == null) return null;
-    if (map.containsKey(node)) return map.get(node);
-    Node copy = new Node(node.val);
-    map.put(node, copy);
-    for (Node n : node.neighbors)
-        copy.neighbors.add(cloneGraph(n));
-    return copy;
-}
+    public Node cloneGraph(Node root) {
+        if(root==null) return null;
+        Map<Node,Node> map = new HashMap<>();
+        Stack<Node> st = new Stack<>();
+        st.push(root);
+        map.put(root,new Node(root.val));
+        while(!st.isEmpty()){
+            Node node = st.pop();
+            for(Node n:node.neighbors){
+                if(!map.containsKey(n)){
+                    map.put(n,new Node(n.val));
+                    st.push(n);
+                }
+                map.get(node).neighbors.add(map.get(n));
+            }
+            
+        }
+        return map.get(root);
+    }
 }
