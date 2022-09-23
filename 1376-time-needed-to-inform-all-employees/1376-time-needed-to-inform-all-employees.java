@@ -1,4 +1,8 @@
 class Solution {
+    /*
+    do bfs and store time to reach that node 
+     compare time when we reach last node 
+      */
     public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
         
         Queue<pair> q = new LinkedList<>();
