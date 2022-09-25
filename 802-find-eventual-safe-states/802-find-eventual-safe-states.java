@@ -10,7 +10,7 @@ class Solution {
     }
     public boolean dfs(int[][] graph, int[] vis, int curr){
         if(vis[curr]==1) return false;
-        if(vis[curr]==2) return true;
+       // if(vis[curr]==2) return true;
         vis[curr]=1;
         for(int i = 0;i<graph[curr].length;i++){
             int next = graph[curr][i];
