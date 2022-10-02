@@ -1,6 +1,6 @@
 class Solution {
     public boolean canMeasureWater(int x, int y, int z) {
-        
+        if(z>x+y) return false;
         Set<Integer> set = new HashSet<>();
         Queue<Integer> q = new LinkedList<>();
         q.add(0);
