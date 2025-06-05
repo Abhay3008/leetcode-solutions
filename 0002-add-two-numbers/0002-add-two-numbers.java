@@ -34,7 +34,7 @@ class Solution {
             t.next = new ListNode(ans);
             t = t.next;
             l1 = l1.next;
-            System.out.println(t.val);
+            // System.out.println(t.val);
         }
         while(l2!=null){
             int a = l2.val;
@@ -44,14 +44,14 @@ class Solution {
             t.next = new ListNode(ans);
             t = t.next;
             l2 = l2.next;
-            System.out.println(t.val);
+            // System.out.println(t.val);
         }
         while(carry>0){
             int ans=carry%10;
             carry=carry/10;
             t.next = new ListNode(ans);
             t = t.next;
-            System.out.println(t.val);
+            // System.out.println(t.val);
         }
         return res.next;
     }
