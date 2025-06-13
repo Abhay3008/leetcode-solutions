@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay3008/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -81,4 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay3008/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
