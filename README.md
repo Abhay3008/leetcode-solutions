@@ -86,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
