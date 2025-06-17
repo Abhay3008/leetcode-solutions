@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhay3008/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhay3008/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Abhay3008/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
