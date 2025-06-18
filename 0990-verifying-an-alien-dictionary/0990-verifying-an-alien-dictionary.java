@@ -4,10 +4,9 @@ class Solution {
         for(int i=0;i<order.length();i++){
             count[order.charAt(i)-'a']=i;
         }
-        for(int i=0;i<words.length;i++){
-            for(int j=i+1;j<words.length;j++){
+        for(int i=0;i<words.length-1;i++){
                 char[] a = words[i].toCharArray();
-                char[] b = words[j].toCharArray();
+                char[] b = words[i+1].toCharArray();
                 int x=0,y=0;
                 while(x<a.length && y<b.length){
                     if(a[x]!=b[y] && count[a[x]-'a'] > count[b[y]-'a']){
@@ -23,7 +22,6 @@ class Solution {
                 }
                 if(x<a.length && y==b.length)
                     return false;
-            }
         }
         // System.out.println(count[0]);
         return true;
