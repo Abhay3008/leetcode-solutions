@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Hash Function
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Hash Table
+|  |
+| ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
