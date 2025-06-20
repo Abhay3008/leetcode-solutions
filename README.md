@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
