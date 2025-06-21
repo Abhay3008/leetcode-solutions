@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay3008/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Hash Function
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhay3008/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay3008/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Union Find
 |  |
