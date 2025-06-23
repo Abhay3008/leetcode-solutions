@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay3008/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
+| [0890-lemonade-change](https://github.com/Abhay3008/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhay3008/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Abhay3008/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
