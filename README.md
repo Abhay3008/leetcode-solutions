@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Abhay3008/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0890-lemonade-change](https://github.com/Abhay3008/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -163,8 +164,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
