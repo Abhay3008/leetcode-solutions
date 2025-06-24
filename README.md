@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Abhay3008/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1020-longest-turbulent-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/Abhay3008/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
