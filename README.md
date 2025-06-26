@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Abhay3008/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhay3008/leetcode-solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Abhay3008/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Abhay3008/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Abhay3008/leetcode-solutions/tree/master/0130-surrounded-regions) |
