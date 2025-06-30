@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay3008/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/Abhay3008/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhay3008/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Abhay3008/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0572-subtree-of-another-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
