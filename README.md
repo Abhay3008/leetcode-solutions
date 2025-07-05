@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhay3008/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/Abhay3008/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhay3008/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhay3008/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Abhay3008/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhay3008/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Abhay3008/leetcode-solutions/tree/master/0134-gas-station) |
