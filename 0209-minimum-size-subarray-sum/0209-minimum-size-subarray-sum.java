@@ -18,10 +18,10 @@ class Solution {
                 r++;
                
             }
-             System.out.println(sum+" "+l+" "+r);
+            //  System.out.println(sum+" "+l+" "+r);
             
         }
-        System.out.println(sum+" "+l+" "+r);
+        // System.out.println(sum+" "+l+" "+r);
         if(sum>=target){
             while((sum-nums[l])>=target){
                 sum-=nums[l];
