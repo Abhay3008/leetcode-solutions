@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay3008/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Abhay3008/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0937-online-stock-span](https://github.com/Abhay3008/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -215,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay3008/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Abhay3008/leetcode-solutions/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Abhay3008/leetcode-solutions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Abhay3008/leetcode-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
