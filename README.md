@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay3008/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Abhay3008/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Abhay3008/leetcode-solutions/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/Abhay3008/leetcode-solutions/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay3008/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Abhay3008/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Abhay3008/leetcode-solutions/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Abhay3008/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0394-decode-string](https://github.com/Abhay3008/leetcode-solutions/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Abhay3008/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0753-open-the-lock](https://github.com/Abhay3008/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhay3008/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
